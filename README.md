@@ -14,20 +14,21 @@ Bila ada yang tertarik.. silakan connect https://jimkoto.my.id
 
 #####
 Silakan bila ada yang mau coba.
-ARSITEKTUR FINAL (REKOMENDASI PRODUKSI)
-#####
-Google Sheets (CMS)
-        ↓
-Cloudflare Worker (API + Cache + SEO)
-        ↓
-Static Frontend (Premium-like Theme)
-        ↓
-GitHub (Version Control + CI)
-        ↓
+
+~ ARSITEKTUR FINAL (REKOMENDASI PRODUKSI) ~
+
+Google Sheets (CMS) ↓
+
+Cloudflare Worker (API + Cache + SEO) ↓
+
+Static Frontend (Premium-like Theme)  ↓
+
+GitHub (Version Control + CI)  ↓
+
 Cloudflare Pages / Workers
 #####
 
-Kenapa ini kuat?
+- Kenapa ini kuat?
 
 ⚡ Sangat cepat (edge rendering)
 
