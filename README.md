@@ -37,3 +37,5 @@ Cloudflare Pages / Workers
 🔒 Aman & murah (tanpa server)
 
 📈 SEO-friendly (HTML real, bukan SPA berat)
+
+~ Connect Our YouTube Channel '/@akomodanetwork'
