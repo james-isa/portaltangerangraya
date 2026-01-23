@@ -38,4 +38,4 @@ Cloudflare Pages / Workers
 
 📈 SEO-friendly (HTML real, bukan SPA berat)
 
-~ Connect Our YouTube Channel '/@akomodanetwork'
+~ Connect Our YouTube Channel '[/@akomodanetwork](https://www.youtube.com/@akomodanetwork)'
