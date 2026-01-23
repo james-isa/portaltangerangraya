@@ -1,4 +1,4 @@
-James Isa a.k.a Jim Koto adalah [Founder & CEO Akomoda Network](https://jimkoto.my.id]), yang sedang mengerjakan;
+James Isa a.k.a Jim Koto adalah [Founder & CEO Akomoda Network](https://jimkoto.my.id), yang sedang mengerjakan;
 - [ekosistem-digital](https://kotobatuah.web.id)
 - [/@akomodanetwork](https://www.youtube.com/@akomodanetwork)
 - Moto: Ubah Hobi Jadi Aset Digital Nyata. Wadah kolaborasi UMKM yang merupakan bagian dari Akomoda Network.
